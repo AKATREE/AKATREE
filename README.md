@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AKATREE
-- 👀 I’m interested in coding stuffs
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in coding stuff
+- 🌱 I’m currently learning C 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
